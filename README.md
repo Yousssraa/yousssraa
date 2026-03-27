@@ -14,11 +14,16 @@
 
 ## 👩‍💻 À propos de moi
 
-* 🔭 Actuellement en train de travailler sur des projets en développement web
+ 🔭 Actuellement en train de travailler sur des projets en développement web
+  
 🌱 J’apprends continuellement de nouvelles technologies pour créer des interfaces modernes
+
 👯 Ouverte aux collaborations sur des projets open-source créatifs
+
 💬 Ask me about front-end, UI/UX & web development
+
 📫 Contact : [youssramouataz60@gmail.com](mailto:youssramouataz60@gmail.com)
+
 ⚡ Fun fact : je code mieux avec un bon café ☕
 
 ---
