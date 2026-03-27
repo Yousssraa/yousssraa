@@ -14,12 +14,12 @@
 
 ## 👩‍💻 À propos de moi
 
-* 🔭 Actuellement en train de travailler sur **des projets passionnants en développement web**
-* 🌱 J'apprends en continu de nouvelles technologies pour créer des interfaces modernes
-* 👯 Je suis ouverte aux collaborations sur **des projets open-source créatifs**
-* 💬 Demandez-moi des trucs sur **[Ce que tu aimes faire : ex. le front-end, le design UI/UX]**
-* 📫 Comment me joindre : **[Ton Email de contact]**
-* ⚡ Fait amusant : **[Insère une petite passion ou anecdote, ex: Je code mieux après un bon café ☕]**
+* 🔭 Actuellement en train de travailler sur des projets en développement web
+🌱 J’apprends continuellement de nouvelles technologies pour créer des interfaces modernes
+👯 Ouverte aux collaborations sur des projets open-source créatifs
+💬 Ask me about front-end, UI/UX & web development
+📫 Contact : [youssramouataz60@gmail.com](mailto:youssramouataz60@gmail.com)
+⚡ Fun fact : je code mieux avec un bon café ☕
 
 ---
 
